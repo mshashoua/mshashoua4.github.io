@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Shashoua</title>
+    <link>https://mshashoua.github.io/</link>
+    <description>Recent content on Michael Shashoua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mshashoua.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mshashoua.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mshashoua.github.io/research/</guid>
+      <description>Research Private Labels, Famous Brands, and Heterogeneous Households: Can High Ad Spending be Justified and are Households&amp;rsquo; Advertising Elasticities Stable Across Products?
+with Jeremy Fox and Stefan Hoderlein
+This paper estimates the correlation of household advertising elasticities across various brands of chocolate and laundry detergent. We leverage a unique data set consisting of matched ad views and household purchases across a two year period. This data allows us to address endogenity issues such as the correlation between ad exposure and household ad elasticities and the distinction between unobserved heterogeneity and state dependence.</description>
+    </item>
+    
+  </channel>
+</rss>
